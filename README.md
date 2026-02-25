@@ -43,7 +43,7 @@ pip install ultralytics opencv-python
 
 Clone the repository:
 
-git clone https://github.com/your-username/your-repo-name.git
+git clone https://github.com/mariamsaid/YOLOv8-object-detection.git
 
 Navigate to the project directory:
 
